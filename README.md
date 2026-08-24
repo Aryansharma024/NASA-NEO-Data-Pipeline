@@ -51,4 +51,4 @@ How to Run Locally
 
 
 Aryan Sharma 
-Connect with me:[Insert your LinkedIn Profile URL here]
+Connect with me:[https://www.linkedin.com/in/aryan-sharma-6b601b2a4?utm_source=share_via&utm_content=profile&utm_medium=member_android]
