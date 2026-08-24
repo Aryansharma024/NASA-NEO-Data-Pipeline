@@ -2,7 +2,7 @@
 
 ☄️ NASA Near-Earth Object (NEO) Data Pipeline & Analytics
 
-Power BI Dashboard](IMG-20260823-WA0008.jpg)
+Power BI Dashboard]( https://github.com/Aryansharma024/NASA-NEO-Data-Pipeline/blob/main/IMG-20260823-WA0008.jpg )
 
 Project Overview
 This project is an *end-to-end ETL data pipeline* designed to extract, transform, and visualize live data regarding Near-Earth Objects (asteroids) tracked by NASA. The goal of this analysis is to categorize potential planetary threats based on size, brightness (magnitude), and proximity, translating raw JSON API data into an interactive, actionable Power BI dashboard.
